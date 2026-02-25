@@ -1,0 +1,42 @@
+body {
+  background-color: #f4f4f4
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial;
+}
+
+.color-grid {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 10px 20px;
+  border-radius: 10px;
+}
+
+.color1 {
+  background-color: #70F785;
+}
+
+.color2 {
+  background-color: rgb(67, 4, 89);
+}
+
+.color3 {
+  background-color: fuchsia;
+}
+
+.color4 {
+  background-color: hsl(345, 70%, 50%);
+}
+
+.color5 {
+  background-color: #afafaf;
+}
